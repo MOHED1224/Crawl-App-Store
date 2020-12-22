@@ -7,4 +7,4 @@ Also using BueatifulSoup to extract some extra information then store all the da
 
 ## NOTE: All the outputs of this library functions are JSON code
 
-This code takes a list of apps names from an CSV file, search app store to find them and return some details about them. Of course you can change what details you want to see, since the output is JSON code, it's very easy to handle with it.
+This code takes a list of apps names from a CSV file, search app store to find them and return some details. Of course you can change what details you want to see, since the output is JSON code, it's very easy to handle with it.
