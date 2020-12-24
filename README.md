@@ -5,6 +5,8 @@ This script uses <a href="https://github.com/cowboy-bebug/app-store-scraper">app
 
 Also using BueatifulSoup to extract some extra information then store all the data in pandas dataframe.
 
-## NOTE: All the outputs of this library functions are JSON code
+## NOTE: All the outputs of this library functions are JSON.
 
 This code takes a list of apps names from a CSV file, search app store to find them and return some details. Of course you can change what details you want to see, since the output is JSON code, it's very easy to handle with it.
+
+### <a href="https://github.com/MOHED1224/Crawl-Google-Play">Repository</a> for crawling Google Play
